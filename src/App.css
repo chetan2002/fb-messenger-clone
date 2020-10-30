@@ -17,9 +17,9 @@
 }
 
 .app_input {
-  flex: 1 ;
+  flex: 0.95 ;
 }
 
 .app_iconButton {
   flex: 0;
-}
+} 
